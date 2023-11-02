@@ -30,4 +30,3 @@ Let's connect and collaborate on exciting projects! 😄
 
 Thanks for visiting my profile, and feel free to explore my repositories. I'm always open to new ideas and collaborations, so let's build something amazing together! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/2002utkarsh/count.svg)
